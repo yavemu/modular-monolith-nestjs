@@ -93,8 +93,8 @@ Este proyecto fue desarrollado siguiendo la arquitectura de **monolito modular**
 1. **Clonar el repositorio**
 
    ```bash
-   git clone <URL_DEL_REPOSITORIO>
-   cd <NOMBRE_DEL_PROYECTO>
+   git clone git@github.com:yavemu/modular-monolith-nestjs.git
+   cd modular-monolith-nestjs.git
    ```
 
 2. **Instalar dependencias**
